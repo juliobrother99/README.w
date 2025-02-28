@@ -1,3 +1,6 @@
 # README.w
 
-aula choma quinta
+instalar github desktop
+fetch
+
+enviar modificações via push
